@@ -1,8 +1,7 @@
 # Eastern Highland Chatino (cly)
-Contains Eastern Highland Chatino
+Contains verbal paradigms for Eastern Highland Chatino (Oto-Manguean)
 
 ## Data
-
 Source:
 > @inproceedings{cruz2020resource,
 >   title={A Resource for Studying Chatino Verbal Morphology},
@@ -15,8 +14,10 @@ Source:
 ## Annotators
 Hilaria Cruz and Antonis Anastasopoulos
 
-## Shared Tasks
+## Paradigm Samples
+TBA
 
+## Shared Tasks
 2020: [Typologically Diverse Morphological Inflection](https://www.aclweb.org/anthology/2020.sigmorphon-1.1/)
 
 ## License
